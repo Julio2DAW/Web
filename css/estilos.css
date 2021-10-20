@@ -1,0 +1,26 @@
+*{
+  margin: 0 auto;
+}
+body{
+  width: 1200px;
+}
+header{
+  height: 100px;
+  background-color: orange;
+}
+nav{
+  height: 100px;
+  background-color: blue;
+}
+footer{
+  height: 100px;
+  background-color: red;
+}
+aside{
+  width: 140px;
+  background-color: green;
+}
+article{
+  width: 1060px;
+  background-color: yellow;
+}
