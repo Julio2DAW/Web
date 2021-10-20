@@ -13,7 +13,8 @@ nav{
   background-color: blue;
 }
 main{
-
+  overflow: hidden;
+  background-color: purple;
 }
 aside{
   width: 120px;
